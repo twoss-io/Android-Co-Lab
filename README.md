@@ -20,7 +20,7 @@
 
 #### 具體產業效益
 
-* 因 Deep Learning 技術，能針對原本較難建立之模型，發展新model的可能性，協助廠商增加產品價值。
+* 提升國內業者系統軟體基礎能力、往高值化發展所需系統軟體之核心技術與人才，預期可為台灣產業注入行動運算平台虛擬化基礎軟體技術能力
 
 <p align="center">
   <img src="https://github.com/twoss-io/Android-Co-Lab/blob/master/img/android_intro1.png">
