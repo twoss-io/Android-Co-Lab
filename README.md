@@ -1,6 +1,6 @@
 # Android-Co-Lab
 
-## WG1: 大數據平台服務 開源專案   
+## WG1: Android Container 技術開發    
 
 #### 推動執行目標
 原生 Android 未考量多個系統同時運作時，周邊資源需被虛擬化隔離或共享。本計畫深入 Android 開源核心，重構(refactoring) Android 原生架構，進行容器化調適 (Containerization)，實現 Android Containers 執行環境。建立研發種子團隊與成立開源計畫，發展 Container-based Android 共通系統軟體技術，借重社群力量擴大使用/開發/測試規模，發展商業應用等級的關鍵系統軟體技術。
